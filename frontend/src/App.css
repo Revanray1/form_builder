@@ -1,0 +1,66 @@
+.homepage_header{
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.text{
+
+}
+
+.homebutton{
+  background-color: green;
+  border: none;
+  height: 20px;
+  color: white;
+  cursor: pointer;
+  
+}
+.homepage_content{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.text_center{
+  text-align: center;
+  }
+.curser-button{
+    cursor: pointer;
+}
+.input-button{
+  background-color: white;
+  border-color: blue;
+  color: blue;
+  cursor: pointer;
+  border-radius: 2px; 
+}
+
+.inputfield-button{
+  color: white;
+  background-color: blue;
+  border: none;
+  border-radius: 2px;
+  }
+
+  .submit-button{
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    }
+
+
+
+
+.d-flex{
+  display: flex;
+}
+
+.input-field-border{
+  outline: 0;
+  border-width: 0 0 1px;
+  border-color: blue
+}
+
+.justify-content-center{
+justify-content: center;
+}
